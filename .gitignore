@@ -1,4 +1,5 @@
 # Miscellaneous
+lib/github_oauth_credentials.dart
 *.class
 *.log
 *.pyc
